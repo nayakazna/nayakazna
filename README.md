@@ -31,7 +31,7 @@ I'm Nayaka, a (self-proclaimed) hard-working informatics engineering student fro
 ## Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,opencv,next,supabase,tailwind,qt" />
+    <img src="https://skillicons.dev/icons?i=git,github,opencv,next,supabase,sqlite,tailwind,qt" />
   </a>
 </p>
 
