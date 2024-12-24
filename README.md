@@ -17,7 +17,10 @@ section        .data
 
 I'm Nayaka, a (self-proclaimed) hard-working informatics engineering student from Bandung Institute of Technology, eager to explore various branches of computer science and to satisfy my personal curiosity. Currently, I'm focusing on data science and cybersecurity. I've got experience in several programming languages and tools, and proficient in LaTeX typesetting.
 
-<!-- ![Nayaka's GitHub stats](https://github-readme-stats.vercel.app/api?username=nayakazna&show_icons=true&theme=dracula)-->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nayakazna&show_icons=true&theme=dracula" alt="Nayaka's GitHub stats">
+</div>
+
 ## Languages
 
 <p align="center">
