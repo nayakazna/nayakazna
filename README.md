@@ -25,8 +25,8 @@ I'm Nayaka, a (self-proclaimed) hard-working informatics engineering student fro
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayakazna&hide=jupyter%20notebook,tex&theme=dracula&layout=compact&hide_border=true&exclude_repo=Upsolve-THT_GCS25_Nayaka" alt="Top Langs"/><br>
-    <img src="https://skillicons.dev/icons?i=c,cpp,fortran,go,haskell,java,js,py,r,html" alt="Programming Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayakazna&hide=jupyter%20notebook,tex,html&theme=dracula&layout=compact&hide_border=true&exclude_repo=Upsolve-THT_GCS25_Nayaka" alt="Top Langs"/><br>
+    <img src="https://skillicons.dev/icons?i=c,cpp,fortran,go,haskell,java,js,py,r" alt="Programming Languages" />
   </a>
 </p>
 
