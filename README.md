@@ -32,13 +32,28 @@ I'm Nayaka, a (self-proclaimed) hard-working informatics engineering student fro
 
 
 ## Tools
+### Web Development
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,opencv,next,supabase,sqlite,tailwind,qt" />
+    <img src="https://skillicons.dev/icons?i=docker,fastapi,threejs,react,supabase,vite" />
   </a>
 </p>
 
-## Miscellaneous
+### Machine Learning
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=sklearn,tensorflow" />
+  </a>
+</p>
+
+### Robotics Software Control
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arduino,opencv,ros" />
+  </a>
+</p>
+
+### Miscellaneous
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vim,latex,obsidian,vscodium" />
