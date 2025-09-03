@@ -5,7 +5,8 @@
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 
-<img src="/github-metrics.svg" alt="Metrics" width="100%">
+<h1>Stats</h1>
+<img align="left" width="450" src="/github-metrics.svg" alt="Metrics">
 
   <h1>Tech Stacks</h1>
   <h2>Web Development</h2>
