@@ -7,9 +7,10 @@
 
 <h1>Stats</h1>
 <img align="left" width="450" src="/github-metrics.svg">
-<img align="right" width="450" src="/metrics.plugin.isocalendar.fullyear.svg?raw=true" />
-
-  <br>
+<img align="right" width="450" src="/github-metrics.svg">
+<img align="left" width="450" src="/metrics.plugin.isocalendar.fullyear.svg?raw=true" />
+  <br clear="both">
+  
   <h1>Tech Stacks</h1>
   <h2>Web Development</h2>
     <img src="https://img.shields.io/badge/Svelte-white?style=for-the-badge&logo=svelte&logoColor=FF3E00" />
