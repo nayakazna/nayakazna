@@ -6,7 +6,8 @@
   </a>
 
 <h1>Stats</h1>
-<img align="left" width="450" src="/github-metrics.svg" alt="Metrics">
+<img align="left" width="450" src="/github-metrics.svg">
+<img align="right" width="450" src="/metrics.plugin.isocalendar.fullyear.svg?raw=true" />
 
   <br>
   <h1>Tech Stacks</h1>
