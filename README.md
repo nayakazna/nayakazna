@@ -8,6 +8,7 @@
 <h1>Stats</h1>
 <img align="left" width="450" src="/github-metrics.svg" alt="Metrics">
 
+  <br>
   <h1>Tech Stacks</h1>
   <h2>Web Development</h2>
     <img src="https://img.shields.io/badge/Svelte-white?style=for-the-badge&logo=svelte&logoColor=FF3E00" />
