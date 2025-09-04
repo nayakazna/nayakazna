@@ -6,11 +6,10 @@
   </a>
 
 <h1>Stats</h1>
-  <img align="left" width="45%" src="/github-metrics.svg?raw=true">
-  <img align="right" width="45%" src="/metrics.plugin.languages.svg?raw=true"/>
-  <img align="right" width="45%" src="/metrics.plugin.isocalendar.fullyear.svg?raw=true" />
-  <br clear="both">
-  <img align="center" width="45%" src="/metrics.plugin.leetcode.svg?raw=true">
+  <img align="left" width="46%" src="/github-metrics.svg?raw=true">
+  <img align="right" width="46%" src="/metrics.plugin.languages.svg?raw=true"/>
+  <img align="right" width="46%" src="/metrics.plugin.leetcode.svg?raw=true">
+  <img align="left" width="49%" src="/metrics.plugin.isocalendar.fullyear.svg?raw=true" />
   <br clear="both">
   
   <h1>Tech Stacks</h1>
